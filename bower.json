@@ -1,0 +1,19 @@
+{
+  "name": "purescript-halogen-foundation",
+  "version": "0.1.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+     "purescript-halogen": "~0.4.1"
+  },
+  "devDependencies": {
+    "foundation": "~5.5.1"
+  }
+}
